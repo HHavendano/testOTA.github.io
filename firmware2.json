@@ -1,5 +1,0 @@
-{
-    "type": "esp32-fota-http",
-    "version": "2.1",
-    "url": "https://hhavendano.github.io/testOTA.github.io/firmware_2.1.bin"
-}  
